@@ -114,17 +114,20 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # This creates a path object for our new file
-    pathOfCSV = Path("data/qualifying_loans.csv")
-    # This opens our file and closes it automatically at the end of the block and assings our open object to the reference variable
-    # openCSVFile
-    with open(pathOfCSV, 'w', newline='') as openCSVFile:
-        # creates a writer object from our open file object and assigns it to the reference variable csvwriter
-        csvwriter = csv.writer(openCSVFile)
-        # iterates through the list of lists and assigns each one to row temporarily
-        for row in qualifying_loans:
-            # writes each row one at a time to our file
-            csvwriter.writerow(row)
+    answer = questionary.confirm(
+        "Do you want to save the qualifying loans?").ask()
+    if answer == True:
+        # This creates a path object for our new file
+        pathOfCSV = Path("data/qualifying_loans.csv")
+        # This opens our file and closes it automatically at the end of the block and assings our open object to the reference variable
+        # openCSVFile
+        with open(pathOfCSV, 'w', newline='') as openCSVFile:
+            # creates a writer object from our open file object and assigns it to the reference variable csvwriter
+            csvwriter = csv.writer(openCSVFile)
+            # iterates through the list of lists and assigns each one to row temporarily
+            for row in qualifying_loans:
+                # writes each row one at a time to our file
+                csvwriter.writerow(row)
 
 
 def run():
