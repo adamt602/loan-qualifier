@@ -127,8 +127,9 @@ def save_qualifying_loans(qualifying_loans):
 
 
 def save_csv(qualifying_loans):
-    # This creates a path object for our new file
-    pathOfCSV = Path("data/qualifying_loans.csv")
+    # Asks the user to provide a file path for the qualifying loans. Should be data/qualifying_loans.csv
+    pathOfCSV = questionary.text(
+        "Enter a file path to a qualifying_loans (.csv):").ask()
     # This opens our file and closes it automatically at the end of the block and assings our open object to the reference variable
     # openCSVFile
     with open(pathOfCSV, 'w', newline='') as openCSVFile:
