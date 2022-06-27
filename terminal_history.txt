@@ -1,0 +1,1000 @@
+   50  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   51  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   52  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   53  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   54  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   55  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   56  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   57  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   58  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   59  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   60  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   61  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   62  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   63  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   64  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   65  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   66  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   67  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/test.py
+   68  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   69  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   70  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   71  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   72  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   73  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   74  clear
+   75  python3 Try.py
+   76  ls
+   77  cd 06_Stu_Working_with_Dictionaries
+   78  ls
+   79  python3 Try.py
+   80  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   81  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   82  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   83  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   84  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   85  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   86  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   87  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   88  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   89  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   90  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   91  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/Try.py
+   92  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/MultipleInheritance.py
+   93  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/MultipleInheritance.py
+   94  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_1_Activities/06_Stu_Working_with_Dictionaries/MultipleInheritance.py
+   95  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   96  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
+   97  /Users/adampotter/.zprofile
+   98  ls -al ~/.ssh
+   99  ls -al
+  100  ssh-keygen -t rsa -b 4096 -C "adamt602@gmail.com"
+  101  eval "$(ssh-agent -s)"
+  102  ssh-add ~/.ssh/id_rsa
+  103  pbcopy <~/.ssh/id_rsa.pub
+  104  ssh -T git@github.com
+  105  ssh -T git@github.com
+  106  clear
+  107  conda --version
+  108  conda --version
+  109  conda --version
+  110  conda update conda
+  111  conda create -n dev python=3.7 anaconda
+  112  conda activate 
+  113  conda activate dev
+  114  conda init zsh
+  115  echo #{SHELL}
+  116  python -m ipkernal install --user --name dev
+  117  python -m ipykernel install -user --name dev
+  118  python -m ipykernel install --user --name dev
+  119  conda install -c conda-forge nodejs
+  120  conda deactivate 
+  121  ls
+  122  ls -al
+  123  ls
+  124  cd ~
+  125  ls
+  126  cd Desktop
+  127  ls
+  128  python3 greeting.text
+  129  ls
+  130  cd ..
+  131  ls
+  132  cd Desktop
+  133  mkdir <Class>
+  134  mkdir <H>
+  135  touch <name.txt>
+  136  touch name
+  137  mkdir Class
+  138  mkdir Class
+  139  python3 greeting.text
+  140  cd desktop
+  141  ls
+  142  python3 greeting.text
+  143  ls
+  144  mv greeting.text IdeaProjects alias
+  145  ls
+  146  mv greeting.text untitled folder
+  147  ls
+  148  mv greeting.text untitled_folder
+  149  mv greeting.text untitled""folder
+  150  ls
+  151  mv Try.py untitled_folder
+  152  pwd
+  153  ls
+  154  cd desktop
+  155  ls
+  156  pwd
+  157  mv /Users/adampotter/desktop/Try.py /Users/adampotter/desktop/NewTry.py
+  158  ls
+  159  ls -s
+  160  cd desktop
+  161  ls -s
+  162  ls -l
+  163  ls
+  164  cd documents
+  165  mkdir Repository
+  166  ls
+  167  git git@github.com:adamt602/codingdemo.git
+  168  clear
+  169  ls
+  170  cd Repository
+  171  ls
+  172  git clone git@github.com:adamt602/codingdemo.git
+  173  ls
+  174  ..
+  175  ls
+  176  clear
+  177  ls
+  178  ..
+  179  ls
+  180  cd Documents
+  181  ls
+  182  cd Bootcamp
+  183  cd Pythonls
+  184  ls
+  185  cd Python_Bootcamp
+  186  ls
+  187  cd Repository
+  188  cd Repositorys
+  189  ls
+  190  ls
+  191  cd codingdemo
+  192  ls
+  193  git add -A
+  194  git commit -m "I coded the file for the first time yayy"
+  195  git push origin master
+  196  git push origin master
+  197  git pull origin development
+  198  ls
+  199  cd desktop
+  200  ;s
+  201  ls
+  202  ..
+  203  exit
+  204  ls
+  205  cd documents
+  206  ls
+  207  cd Python_Bootcamp
+  208  ls
+  209  cd Repositorys
+  210  ls
+  211  git clone git@github.com:adamt602/codingdemo.git
+  212  git add -A
+  213  ls
+  214  cd codingdemo
+  215  git add -A
+  216  git commit -m "I coded the file for the first time yayy"
+  217  git push origin master
+  218  git pull origin development
+  219  git pull origin master
+  220  git init
+  221  git remote add origin git@github.com:adamt602/codingdemo.git
+  222  git add -A
+  223  ls
+  224  cd documents
+  225  ls
+  226  cd Python_Bootcamp
+  227  ls
+  228  cd Repositorys
+  229  ls
+  230  cd codingdemo
+  231  ls
+  232  git add -A
+  233  git commit -m "Hello"
+  234  git push
+  235  git add -A
+  236  git commit -m "Real code" 
+  237  git push
+  238  git checkout -b header
+  239  git add -A
+  240  git commit -m "print rarr" 
+  241  git push origin header
+  242  git checkout master
+  243  git checkout master
+  244  git checkout main
+  245  git pull
+  246  conda acitvate dev
+  247  conda activate
+  248  jupyter lab
+  249  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/codingdemo/Test.py
+  250  ls
+  251  cd documents
+  252  ls
+  253  cd Python_Bootcamp
+  254  ls
+  255  mkdir Python_Projects
+  256  ls
+  257  cd Python_Projects
+  258  mkdir Project1
+  259  ls
+  260  cd Project1
+  261  touch hello_python.py
+  262  ls
+  263  ls
+  264  cd desktop
+  265  ..
+  266  ls
+  267  cd documents
+  268  ls
+  269  cd Python_Bootcamp
+  270  ls
+  271  cd Python_Projects
+  272  ls
+  273  cd Project1
+  274  ls
+  275  cd PythonProject
+  276  ls
+  277  conda activate dev
+  278  python --version
+  279  code .
+  280  code .
+  281  python hello_python.py
+  282  conda deactivate 
+  283  mkdir Reading_activity
+  284  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Python_Projects/Project1/PythonProject/hello_python.py
+  285  ls
+  286  cd PythonProject
+  287  ls
+  288  python hello_python.py
+  289  ls
+  290  cd documents
+  291  ls
+  292  cd Python_Bootcamp
+  293  ls
+  294  cd Reading_activity
+  295  ls
+  296  code .
+  297  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  298  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  299  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/02_Listing_Assets/Unsolved/listing_assets.py
+  300  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/02_Listing_Assets/Unsolved/listing_assets.py
+  301  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/02_Listing_Assets/Unsolved/listing_assets.py
+  302  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/02_Listing_Assets/Unsolved/listing_assets.py
+  303  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/02_Listing_Assets/Unsolved/listing_assets.py
+  304  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  305  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  306  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  307  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  308  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  309  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  310  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  311  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  312  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  313  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  314  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  315  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  316  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  317  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  318  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  319  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  320  code .
+  321  conda acitvate
+  322  code .
+  323  code 
+  324  code .
+  325  conda acitvate dev
+  326  conda activate
+  327  conda deacitvate
+  328  conda deactivate
+  329  conda acitvate dev
+  330  conda activate
+  331  code .
+  332  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/01_Conditional_Statement/Unsolved/conditional_statement.py"
+  333  code .
+  334  conda activate
+  335  code .
+  336  dwc
+  337  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+  338  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  339  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  340  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  341  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.4/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  342  /usr/local/bin/python3
+  343  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  344  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/01_A_Definitive_Buy/test.py"
+  345  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/01_A_Definitive_Buy/test.py"
+  346  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/01_A_Definitive_Buy/test.py"
+  347  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/02_Returned_Goods/Unsolved/returned_goods.py"
+  348  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  349  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  350  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  351  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  352  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  353  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  354  clear
+  355  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  356  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  357  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  358  pwd
+  359  ls
+  360  cd Solved
+  361  ls
+  362  pwd
+  363  ..
+  364  .
+  365  ../
+  366  ..\\ngf
+  367  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  368  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  369  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py"
+  370  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  371  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  372  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  373  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  374  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  375  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  376  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  377  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  378  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  379  clear
+  380  python pathways/usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  381  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  382  clear
+  383  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  384  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  385  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  386  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  387  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  388  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  389  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  390  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  391  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Read_and_Write_CSV/ReadingAndWritingToCSVFiles.py"
+  392  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Read_and_Write_CSV/ReadingAndWritingToCSVFiles.py"
+  393  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/01_Read_and_Write_CSV/ReadingAndWritingToCSVFiles.py"
+  394  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  395  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  396  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  397  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  398  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  399  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  400  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  401  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  402  clear
+  403  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  404  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  405  clear
+  406  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  407  clear
+  408  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  409  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  410  clear
+  411  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  412  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  413  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  414  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/test.py"
+  415  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/test.py"
+  416  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/test.py"
+  417  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/test.py"
+  418  clear
+  419  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/test.py"
+  420  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/section 1.6/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  421  ls
+  422  ls
+  423  git clone git@github.com:adamt602/Module-1-Challenge.git
+  424  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  425  clear
+  426  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  427  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  428  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  429  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  430  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  431  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  432  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  433  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  434  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  435  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  436  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  437  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  438  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  439  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  440  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  441  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  442  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  443  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  444  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  445  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  446  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  447  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  448  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  449  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  450  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  451  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  452  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  453  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  454  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  455  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  456  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  457  clear
+  458  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  459  git add -A
+  460  git commit -m "test"
+  461  git push origin main
+  462  pip install questionary
+  463  pip install fire
+  464  pip install fire
+  465  conda install fire -c conda-forge
+  466  conda create --name new_dev
+  467  conda activate new_dev
+  468  cd "/Users/adampotter/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  469  ls
+  470  cd "/Users/adampotter/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  471  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  472  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  473  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  474  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  475  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  476  /usr/local/bin/python3 /Users/adampotter/Downloads/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  477  conda activate dev
+  478  python atm.py
+  479  ls
+  480  cd 02_Stu_Build_ATM_Functions
+  481  ls
+  482  python atm.py
+  483  ls
+  484  cd Unsolved
+  485  python atm.py
+  486  ls
+  487  python atm
+  488  cd atm
+  489  ls
+  490  python atm.py
+  491  pip install fire
+  492  python atm.py
+  493  pip install questionary
+  494  python atm.py
+  495  /Users/adampotter/Desktop/untitledfolder ; exit;
+  496  conda activate dev
+  497  . code
+  498  code .
+  499  code .
+  500  cd "/Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge"
+  501  ls
+  502  conda activate dev
+  503  python main.py
+  504  ls
+  505  git add -A
+  506  git commit -m "part 4 of homework complete \n"
+  507  git push origin main
+  508  cd "/Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge"
+  509  ls
+  510  conda activate dev
+  511  python main.py
+  512  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  513  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  514  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  515  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  516  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  517  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  518  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  519  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  520  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  521  cd "/Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge"
+  522  ls
+  523  git add -A
+  524  git commit -m "Finished product"
+  525  git push main
+  526  git push origin main
+  527  git status
+  528  git pull
+  529  ls
+  530  conda activate 
+  531  conda activate dev
+  532  python loan_analyzer.py
+  533  pip -v
+  534  pip freeze
+  535  conda activate dev
+  536  pip -v
+  537  conda activate dev
+  538  pip install fire
+  539  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  540  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  541  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  542  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/main.py
+  543  /usr/local/bin/python3 /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Module-1-Challenge/loan_analyzer.py
+  544  conda activate dev
+  545  code .
+  546  /usr/local/bin/python3
+  547  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  548  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  549  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  550  clear
+  551  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  552  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  553  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  554  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  555  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  556  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  557  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  558  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  559  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  560  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  561  clear
+  562  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  563  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  564  /usr/local/bin/python3
+  565  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  566  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  567  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  568   /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50445 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  569   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50482 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  570   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50490 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  571   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50501 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  572  clear
+  573   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50517 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  574  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  575  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  576  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  577  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  578  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  579  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  580  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  581  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/test.py"
+  582  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  583  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  584  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  585  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  586  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  587  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  588  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  589  conda activate dev
+  590  code .
+  591  cd "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  592  conda activate dev
+  593  ls
+  594  python app.py
+  595  python app.py
+  596  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  597  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  598  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  599  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  600  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  601  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  602  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  603  clear
+  604  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/test.py"
+  605  code .
+  606  code .
+  607  code .
+  608  cd "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  609  conda activate dev
+  610  ls
+  611  python app.py
+  612  clear
+  613  python app.py
+  614  python app.py
+  615  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  616  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  617  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  618  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  619  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  620  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  621  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  622  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  623  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  624  clear
+  625  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  626  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  627  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  628  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  629  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  630  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  631  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  632  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  633  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  634  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  635  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  636  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  637  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  638  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  639  clear
+  640  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  641  code .
+  642  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  643  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  644  clear
+  645  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  646  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  647  clear
+  648  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  649  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  650  code .
+  651  conda activate dev
+  652  code .
+  653  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  654  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  655  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  656  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  657  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  658  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  659  clear
+  660  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  661  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  662  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  663  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  664   /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 49468 -- /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/section\ 2/01_Modularize_Your_Loan_Qualifier_Application/app.py 
+  665  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  666  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  667  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  668  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  669  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  670  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  671  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  672  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/test/app.py"
+  673  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  674  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  675  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  676  clear
+  677  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  678  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  679  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  680  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  681  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  682  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  683  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  684  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  685  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  686  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  687  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  688  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  689  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  690  clear
+  691  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  692  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  693  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  694  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  695  clear
+  696  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  697  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/credit_score.py"
+  698  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  699  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  700  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  701  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/credit_score.py"
+  702  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/credit_score.py"
+  703  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/credit_score.py"
+  704  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  705  clear
+  706  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  707  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  708  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  709  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  710  clear
+  711  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  712   /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 49916 -- -m enter-your-module-name 
+  713   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/section\ 2/01_Modularize_Your_Loan_Qualifier_Application ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 49926 -- -m enter-your-module-name 
+  714   cd /Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter\ 2/section\ 2/01_Modularize_Your_Loan_Qualifier_Application ; /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 49932 -- -m enter-your-module-name 
+  715  clear
+  716  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/credit_score.py"
+  717  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  718  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  719  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  720  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  721  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  722  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  723  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  724  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  725  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  726  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  727  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  728  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  729  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/test.py"
+  730  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/Section 1/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  731  code .
+  732  code .
+  733  cd "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application"
+  734  ls
+  735  python app.py
+  736  python app.py
+  737  python app.py
+  738  python app.py
+  739  python app.py
+  740  python app.py
+  741  python app.py
+  742  clear
+  743  python app.py
+  744  python app.py
+  745  python app.py
+  746  python app.py
+  747  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  748  /usr/local/bin/python3 -m pip install -U pylint
+  749  python3 -m pip install --upgrade pip
+  750  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  751  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  752  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  753  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/app.py"
+  754  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  755  conda activate dev
+  756  pip install fire
+  757  pwd
+  758  python test.py
+  759  ls
+  760  cd 01_Modularize_Your_Loan_Qualifier_Application
+  761  ls
+  762  python test.py
+  763  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  764  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  765  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  766  python test.py --pants=True
+  767  ls
+  768  python test.py --pants=True
+  769  conda activate dev
+  770  code .
+  771  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 2/01_Modularize_Your_Loan_Qualifier_Application/test.py"
+  772  pwd
+  773  ls
+  774  cd 01_Modularize_Your_Loan_Qualifier_Application
+  775  ls
+  776  conda activate dev
+  777  python test.py --pants=True
+  778  python test.py --pants=True
+  779  python test.py --pants=True
+  780  python test.py --pants=True
+  781  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  782  conda activate dev
+  783  clear
+  784  cd
+  785  ls
+  786  cd "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  787  ls
+  788  python app.py
+  789  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  790  clear
+  791  conda activate dev
+  792  ls
+  793  cd Unsolved
+  794  ls
+  795  python app.py
+  796  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  797  clear
+  798  conda activate dev
+  799  ls
+  800  cd Unsolved
+  801  ls
+  802  python app.py
+  803  python app.py --credit_score=750
+  804  python app.py --credit_score=750
+  805  python app.py --credit_score=750
+  806  python app.py --credit_score=750
+  807  python app.py --credit_score=750
+  808  clear
+  809  clear
+  810  python app.py --credit_score=750
+  811  python app.py --credit_score=750
+  812  python app.py --credit_score=7
+  813  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  814  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  815  clear
+  816  python app.py --credit_score=750
+  817  python app.py --credit_score=750
+  818  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  819  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  820  python app.py --credit_score=750
+  821  clear
+  822  clear
+  823  python app.py --credit_score=750
+  824  python app.py --credit_score=750 --devt=5000 --income=60000
+  825  python app.py --credit_score=750 --debt=5000 --income=60000
+  826  python app.py --credit_score=750 --debt=5000 --income=60000
+  827  clear
+  828  python app.py --credit_score=750 --debt=5000 --income=60000
+  829  python app.py --credit_score=750 --debt=5000 =-income=60000
+  830  python app.py --credit_score=750 --debt=5000 ==income=60000
+  831  python app.py --credit_score=750 --debt=5000 --income=60000
+  832  python app.py --credit_score=750 --debt=5000 =income=60000
+  833  python app.py --credit_score=750 --debt=5000 ==income=60000
+  834  python app.py --credit_score=750 --debt=5000 ==income=60000
+  835  python app.py --credit_score=750 --debt=5000 ==income=60000
+  836  python app.py
+  837  python app.py --credit_score=750 --debt=5000
+  838  python app.py --credit_score=750 ==debt=5000
+  839  python app.py --credit_score=750 =debt=5000
+  840  python app.py 750 5000
+  841  python app.py --credit_score=750 
+  842  python app.py --credit_score=750 --debt=5000
+  843  python app.py --credit_score=750 --help
+  844  conda activate dev
+  845  ls
+  846  python app.py
+  847  python test.py
+  848  python test.py
+  849  pwd
+  850  ls
+  851  conda activate dev
+  852  python test.py
+  853  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  854  conda activate dev
+  855  python app.py --credit_score=750 --debt=5000
+  856  ls
+  857  cd Unsolved
+  858  python app.py --credit_score=750 --debt=5000
+  859  python app.py --credit_score=750 --debt=5000 --income=60000
+  860  python app.py --credit_score=750 --debt=5000 --income=60000
+  861  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/test.py"
+  862  clear
+  863  ls
+  864  python test.py
+  865  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/test.py"
+  866  clear
+  867  python test.py
+  868  python test.py
+  869  /usr/local/bin/python3 "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/test.py"
+  870  python test.py
+  871  python test.py
+  872  cd "/Users/adampotter/Documents/Python_Bootcamp/Reading_activity/Chapter 2/section 3/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  873  ls
+  874  conda activate dev
+  875  python app.py
+  876  python app.py --credit_score=750 --debt=5000 --income=20000
+  877  pip instal questionary
+  878  pip install questionary
+  879  python app.py --credit_score=750 --debt=5000 --income=20000
+  880  python app.py --credit_score=750 --debt=5000 --income=20000
+  881  clear
+  882  python app.py --credit_score=750 --debt=5000 --income=20000
+  883  pip install questionary
+  884  python app.py --credit_score=750 --debt=5000 --income=20000
+  885  pwd
+  886  ls
+  887  cd Unsolved
+  888  ls
+  889  conda activate dev
+  890  python app.py
+  891  python app.py --credit_score=750 --debt=5000 --income=20000
+  892  python app.py
+  893  python app.py
+  894  python app.py
+  895  python app.py
+  896  python app.py
+  897  python app.py
+  898  clear
+  899  python app.py
+  900  clear
+  901  python app.py
+  902  pip install quesntionary
+  903  clear
+  904  ls
+  905  conda activate dev
+  906  python main.py
+  907  h
+  908  python main.py
+  909  python main.py
+  910  pip install questionary
+  911  python main.py
+  912  python main.py
+  913  python main.py
+  914  clear
+  915  python main.py
+  916  clear
+  917  python main.py
+  918  clear
+  919  python main.py
+  920  python main.py
+  921  clear
+  922  python main.py
+  923  code .
+  924  pwd
+  925  ls
+  926  git clone git@github.com:adamt602/Python_zombie_survival_game.git
+  927  git config --list
+  928  git status
+  929  git status
+  930  git add -A
+  931  git commit -m "Pushing all changes since last commit"
+  932  git push origin main
+  933  git status
+  934  clear
+  935  git add -A
+  936  git commit -m "ReadME.md file changes"
+  937  git push origin main
+  938  git stauts
+  939  git status
+  940  pwd
+  941  git clone git@github.com:adamt602/loan-qualifier.git
+  942  git add -A
+  943  git commit -m "More read me changes"
+  944  git add -A
+  945  git commit -m "Read me file changes"
+  946  git push origin main
+  947  git add -A
+  948  git commit -m "Read me file changes"
+  949  git push origin main
+  950  git add -A
+  951  git commit -m "Read me file changes"
+  952  git push origin main
+  953  git status
+  954  git add -A
+  955  git status
+  956  git add -A
+  957  git commit -m "Read me file changes"
+  958  git push origin main
+  959  git add -A
+  960  git commit -m "Read me file changes"
+  961  git push origin main
+  962  git add -A
+  963  git commit -m "Read me file changes"
+  964  git push origin main
+  965  git add -A
+  966  git commit -m "Read me file changes"
+  967  git push origin main
+  968  git add -A
+  969  git commit -m "Read me file changes"
+  970  git add -A
+  971  git push origin main
+  972  git add -A
+  973  git commit -m "Read me file changes"
+  974  git push origin main
+  975  git add -A
+  976  git commit -m "Read me file changes"
+  977  git push origin main
+  978  git add -A
+  979  git commit -m "Read me file changes"
+  980  git push origin main
+  981  git add -A
+  982  git commit -m "Read me file changes"
+  983  git push origin main
+  984  git add -A
+  985  git commit -m "Read me file changes"
+  986  git push origin main
+  987  git add -A
+  988  git commit -m "Read me file changes"
+  989  git push origin main
+  990  git add -A
+  991  git commit -m "Read me file changes"
+  992  git push origin main
+  993  git add -A
+  994  git add -A
+  995  git commit -m "Read me file changes"
+  996  git push origin main
+  997  git add -A
+  998  git commit -m "Read me file changes"
+  999  git push origin main
+ 1000  code .
+ 1001  pwd
+ 1002  ls
+ 1003  conda activate dev
+ 1004  python main.py
+ 1005  python main.py
+ 1006  python main.py
+ 1007  python main.py
+ 1008  python main.py
+ 1009  python main.py
+ 1010  python main.py
+ 1011  python main.py
+ 1012  python main.py
+ 1013  python main.py
+ 1014  python main.py
+ 1015   /usr/bin/env /usr/local/bin/python3 /Users/adampotter/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50143 -- /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Python_zombie_survival_game/main.py 
+ 1016  python main.py
+ 1017  python main.py
+ 1018  python main.py
+ 1019  clear
+ 1020  python main.py
+ 1021  clear
+ 1022  python main.py
+ 1023  python main.py
+ 1024  python main.py
+ 1025  python main.py
+ 1026  python main.py
+ 1027  python main.py
+ 1028  the
+ 1029  conda activate dev
+ 1030  /Users/adampotter/opt/anaconda3/envs/dev/bin/python /Users/adampotter/Documents/Python_Bootcamp/Repositorys/Python_zombie_survival_game/main.py
+ 1031  /Users/adampotter/Documents/Python_Bootcamp/Repositorys/loan-qualifier
+ 1032  ls
+ 1033  cd /Users/adampotter/Documents/Python_Bootcamp/Repositorys/loan-qualifier
+ 1034  ls
+ 1035  git add -A
+ 1036  git status
+ 1037  git commit -m "Added a function that saves the quailifying loans to a CSV file."
+ 1038  git push origin main
+ 1039  conda activate dev
+ 1040  ls
+ 1041  clear
+ 1042  ls
+ 1043  python app.py
+ 1044  python app.py
+ 1045  python app.py
+ 1046  python app.py
+ 1047  git add -A
+ 1048  git commit -m "Added a CLI to ask the user if they would like to save the qualifying loans to a csv or not."
+ 1049  git push origin main
